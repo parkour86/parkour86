@@ -2,7 +2,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=parkour86&rank_icon=github&show_icons=true&theme=gotham&&count_private=true&include_all_commits=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&custom_title=Myles's%20Github%20Stats"/>
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,php,mysql,ansible,python,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,jquery,php,mysql,ansible,py,git,grafana,docker,linux,sublime&perline=5)](https://skillicons.dev)
 
 
 
