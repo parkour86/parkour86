@@ -2,7 +2,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=parkour86&rank_icon=github&show_icons=true&theme=gotham&&count_private=true&include_all_commits=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&custom_title=Myles's%20Github%20Stats"/>
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,jquery,php,mysql,ansible)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,php,mysql,ansible,python,git)](https://skillicons.dev)
+
+
 
 <!--
 **parkour86/parkour86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
