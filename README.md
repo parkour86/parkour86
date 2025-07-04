@@ -5,34 +5,45 @@
   <tr>
     <td align="right" valign="middle"><p><strong>Frontend Skills</strong></p></td>
     <td align="left" valign="middle">
-      <img src="https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,js,jquery">
+      <a href="https://github.com/syvixor/skills-icons">
+        <img src="https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,js,jquery">
+      </a>
     </td>
   </tr>
   <tr>
     <td align="right" valign="middle"><p><strong>Backend Skills</strong></p></td>
     <td align="left" valign="middle">
-      <img src="https://skills.syvixor.com/api/icons?i=nodejs,php,mysql">
+      <a href="https://github.com/syvixor/skills-icons">
+        <img src="https://skills.syvixor.com/api/icons?i=nodejs,php,mysql">
+      </a>
     </td>
   </tr>
   <tr>
     <td align="right" valign="middle"><p><strong>DevOps Skills</strong></p></td>
     <td align="left" valign="middle">
-      <img src="https://skills.syvixor.com/api/icons?i=ansible,docker,grafana,git,linux,bash">
+      <a href="https://github.com/syvixor/skills-icons">
+        <img src="https://skills.syvixor.com/api/icons?i=ansible,docker,grafana,git,linux,bash">
+      </a>
     </td>
   </tr>
   <tr>
     <td align="right" valign="middle"><p><strong>Programming Skills</strong></p></td>
     <td align="left" valign="middle">
-      <img src="https://skills.syvixor.com/api/icons?i=python">
+      <a href="https://github.com/syvixor/skills-icons">
+        <img src="https://skills.syvixor.com/api/icons?i=python">
+      </a>
     </td>
   </tr>
   <tr>
     <td align="right" valign="middle"><p><strong>Editors and OS</strong></p></td>
     <td align="left" valign="middle">
-      <img src="https://skills.syvixor.com/api/icons?i=sublime,zed,ubuntu">
+      <a href="https://github.com/syvixor/skills-icons">
+        <img src="https://skills.syvixor.com/api/icons?i=sublime,zed,ubuntu">
+      </a>
     </td>
   </tr>
 </table>
+
 
 
 
